@@ -1,3 +1,5 @@
+#	简介
+	用于增删IP。我主要用于MHA的虚拟IP切换
 #	显示IP信息
 ![ip show](https://github.com/GoDannyLai/vipman/raw/master/misc/img/ip_show.png)
 
